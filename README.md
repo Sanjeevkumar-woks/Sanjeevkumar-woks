@@ -8,4 +8,4 @@
 Sanjeevkumar-woks/Sanjeevkumar-woks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img alt="contribution" src="https://github.com/ragavkumarv/ragavkumarv/blob/output/github-contribution-grid-snake.svg" />
+<img alt="contribution" src="https://github.com/Sanjeevkumar-woks/Sanjeevkumar-woks/blob/output/github-contribution-grid-snake.gif"/>
