@@ -33,6 +33,3 @@ hi, Welcome to my page!
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeevkumar-woks&layout=compact&theme=radical&langs_count=6" alt="sanjeevkumar" />
 
 <h4>Connect with me❤️</h4>
-<a href="https://www.linkedin.com/in/sanjeevkumar-managutti-34187a207/">
-  <img align="left" alt="Sanjeevkumar's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
