@@ -28,6 +28,7 @@ hi, Welcome to my page!
  <hr>
 <h4>📈 my github stats</h4>
 <br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 <p> <img src="https://github-readme-stats.vercel.app/api?username=Sanjeevkumar-woks&show_icons=true&theme=gotham" alt="sanjeevkumar" /></p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sanjeevkumar-woks&theme=radical" alt="Sanjeevkumar" /> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeevkumar-woks&layout=compact&theme=radical&langs_count=6" alt="sanjeevkumar" />
